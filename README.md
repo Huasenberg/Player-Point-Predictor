@@ -1,5 +1,7 @@
 # Player Point Predictor
 
+### By mrjianyang and Alex Hua
+
 # Instructions 
 
 ## Libraries Needed
