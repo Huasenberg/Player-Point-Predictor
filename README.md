@@ -1,6 +1,6 @@
 # Player Point Predictor
 
-##### By Matthew Jung 301261171, Alex Hua 301261352
+##### By Alex Hua
 
 # Instructions 
 
