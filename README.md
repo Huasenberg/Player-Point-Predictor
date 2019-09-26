@@ -1,6 +1,6 @@
 # Player Point Predictor
 
-### By mrjianyang and Alex Hua
+### By github.com/mrjianyang and Alex Hua
 
 # Instructions 
 
